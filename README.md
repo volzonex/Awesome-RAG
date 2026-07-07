@@ -89,6 +89,7 @@ RAG implementations vary in complexity, from simple document retrieval to advanc
 
 ## 🧰 Frameworks that Facilitate RAG
 
+- [MothRAG](https://github.com/juliangeymonat-jpg/mothrag): Training-free multi-hop RAG on commodity APIs with no GPU and no graph rebuild; updates are embed-and-append.
 - [Haystack](https://github.com/deepset-ai/haystack): LLM orchestration framework to build customizable, production-ready LLM applications.
 - [LangChain](https://python.langchain.com/docs/modules/data_connection/): An all-purpose framework for working with LLMs.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel): An SDK from Microsoft for developing Generative AI applications.
